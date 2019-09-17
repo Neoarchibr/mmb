@@ -1,0 +1,26 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    font-family: 'Lexend Deca', sans-serif;
+    margin: 7% 0 3%;
+    text-align: center;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    width: 40%;
+    margin: 0 auto;
+}
+
+a {
+    margin: 3% 10%;
+}
+
+.button {
+    margin-left: 70%;
+}
