@@ -6,9 +6,9 @@
 
 body {
     font-family: 'Lato', sans-serif;
-    font-weight: 100px;
     text-align: center;
 	align-content: center;
+	background-color: #f2f2f2;
 
 }
 
@@ -27,8 +27,15 @@ body {
 	width: 40%;
 	margin: 3.5% 10% auto 0;
 	float: right;
+	color: #0d566d;
 	text-align: left;
 	margin-bottom: 100px;
 	
+}
+
+footer {
+	font-size: 0.85em;
+	padding: 3%;
+    color: #17a2b8;
 }
 /*--------------------------------*/
